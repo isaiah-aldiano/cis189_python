@@ -1,0 +1,6 @@
+.DS_Store
+.class
+persistence.xml
+.project
+*.properties
+**/__pycache__
