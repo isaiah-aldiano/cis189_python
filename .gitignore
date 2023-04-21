@@ -4,3 +4,4 @@ persistence.xml
 .project
 *.properties
 **/__pycache__
+**.db
